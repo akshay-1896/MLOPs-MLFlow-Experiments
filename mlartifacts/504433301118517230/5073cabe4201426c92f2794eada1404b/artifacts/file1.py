@@ -55,12 +55,6 @@ with mlflow.start_run():
 
     # log the model
     mlflow.sklearn.log_model(rf, "random_forest_model")
-    
-    # Register the model
-    model_name = "wine_classifier"
-    mlflow.register_model(
-        f"runs:/{mlflow.active_run().info.run_id}/random_forest_model", model_name
-    )
 
 
     print(accuracy)

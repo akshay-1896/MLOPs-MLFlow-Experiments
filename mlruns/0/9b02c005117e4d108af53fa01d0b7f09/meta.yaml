@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9b02c005117e4d108af53fa01d0b7f09/artifacts
+end_time: 1756290741935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b02c005117e4d108af53fa01d0b7f09
+run_name: unleashed-mare-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756290741464
+status: 3
+tags: []
+user_id: bhart

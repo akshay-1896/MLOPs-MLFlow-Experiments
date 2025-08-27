@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/504433301118517230/4871b8937b1740b9aee697c01e7a32b9/artifacts
+end_time: 1756314921451
+entry_point_name: ''
+experiment_id: '504433301118517230'
+lifecycle_stage: active
+run_id: 4871b8937b1740b9aee697c01e7a32b9
+run_name: unique-wasp-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756314916847
+status: 3
+tags: []
+user_id: bhart

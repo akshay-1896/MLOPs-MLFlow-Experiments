@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4c4fd4d9290a4076815d4506b599154c/artifacts
+end_time: 1756291270497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c4fd4d9290a4076815d4506b599154c
+run_name: upbeat-crane-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291269893
+status: 3
+tags: []
+user_id: bhart

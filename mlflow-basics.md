@@ -53,5 +53,16 @@ MLflow is a powerful tool for tracking and managing machine learning experiments
    - **Run ID**: Each run is assigned a unique identifier.
    - **Experiment Name**: Group multiple runs under a single experiment name.
    - **Timestamps**: Log start and end times of each run to track duration.
+   - **Example to Differentiate**:
+      Suppose you are building a model to classify news articles:
+      You create an Experiment:
+
+      **experiment_name = "fake-news-classification"**
+
+      Under this experiment, you conduct multiple Runs:
+
+      **Run 1** → Logistic Regression (learning_rate=0.01, accuracy=85%)
+      **Run 2** → Random Forest (n_estimators=100, accuracy=88%)
+      **Run 3** → Neural Network (epochs=10, accuracy=91%)
 
 This comprehensive list should help users understand the versatility of MLflow for tracking and managing their machine learning workflows.

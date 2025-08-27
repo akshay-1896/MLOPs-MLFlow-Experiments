@@ -7,6 +7,8 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+import dagshub
+
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
 
 # Load Wine dataset
@@ -21,8 +23,8 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random
 max_depth = 10
 n_estimators = 5
 
-# Mention your experiment name
-mlflow.set_experiment("MLflow_Wine_Classification")
+# Mention your experiment below
+mlflow.set_experiment('YT-MLOPS-Exp1')
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)
@@ -37,30 +39,23 @@ with mlflow.start_run():
 
     # Creating a confusion matrix plot
     cm = confusion_matrix(y_test, y_pred)
-    plt.figure(figsize=(8, 6))
+    plt.figure(figsize=(6,6))
     sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=wine.target_names, yticklabels=wine.target_names)
     plt.ylabel('Actual')
     plt.xlabel('Predicted')
     plt.title('Confusion Matrix')
 
-    # save the plot to a file
-    plt.savefig('confusion_matrix.png')
+    # save plot
+    plt.savefig("Confusion-matrix.png")
 
-    # log artifacts(the plot) using mlflow
-    mlflow.log_artifact('confusion_matrix.png')
+    # log artifacts using mlflow
+    mlflow.log_artifact("Confusion-matrix.png")
     mlflow.log_artifact(__file__)
-    
+
     # tags
-    mlflow.set_tags({"Author": "Akshay", "Project": "Wine_Classification"})
+    mlflow.set_tags({"Author": 'Vikash', "Project": "Wine Classification"})
 
-    # log the model
-    mlflow.sklearn.log_model(rf, "random_forest_model")
-    
-    # Register the model
-    model_name = "wine_classifier"
-    mlflow.register_model(
-        f"runs:/{mlflow.active_run().info.run_id}/random_forest_model", model_name
-    )
-
+    # Log the model
+    mlflow.sklearn.log_model(rf, "Random-Forest-Model")
 
     print(accuracy)

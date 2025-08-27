@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/504433301118517230/3fda227374c64cb08d200eefa8da1b9b/artifacts
+end_time: 1756291529785
+entry_point_name: ''
+experiment_id: '504433301118517230'
+lifecycle_stage: active
+run_id: 3fda227374c64cb08d200eefa8da1b9b
+run_name: calm-fox-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291529346
+status: 3
+tags: []
+user_id: bhart

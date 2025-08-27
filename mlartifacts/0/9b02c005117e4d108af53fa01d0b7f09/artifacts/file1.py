@@ -19,10 +19,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random
 
 # Define the params for RF model
 max_depth = 10
-n_estimators = 5
-
-# Mention your experiment name
-mlflow.set_experiment("MLflow_Wine_Classification")
+n_estimators = 10
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)
@@ -49,18 +46,5 @@ with mlflow.start_run():
     # log artifacts(the plot) using mlflow
     mlflow.log_artifact('confusion_matrix.png')
     mlflow.log_artifact(__file__)
-    
-    # tags
-    mlflow.set_tags({"Author": "Akshay", "Project": "Wine_Classification"})
-
-    # log the model
-    mlflow.sklearn.log_model(rf, "random_forest_model")
-    
-    # Register the model
-    model_name = "wine_classifier"
-    mlflow.register_model(
-        f"runs:/{mlflow.active_run().info.run_id}/random_forest_model", model_name
-    )
-
 
     print(accuracy)
