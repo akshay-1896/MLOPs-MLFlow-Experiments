@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/16493704079d4412a1752c343dc856dc/artifacts
+end_time: 1756289479388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16493704079d4412a1752c343dc856dc
+run_name: aged-sow-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756289479294
+status: 3
+tags: []
+user_id: bhart
