@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/474bb53f6f8e47d6af7ca9b302455f67/artifacts
+deleted_time: 1756405254057
+end_time: 1756404778082
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 474bb53f6f8e47d6af7ca9b302455f67
+run_name: secretive-stag-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404778019
+status: 3
+tags: []
+user_id: bhart

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/ca361cce91c54afb86f77dd5269fbc5a/artifacts
+end_time: 1756405752116
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: ca361cce91c54afb86f77dd5269fbc5a
+run_name: inquisitive-pig-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405752003
+status: 3
+tags: []
+user_id: bhart

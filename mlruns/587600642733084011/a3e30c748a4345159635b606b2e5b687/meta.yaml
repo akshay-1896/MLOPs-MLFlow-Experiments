@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/a3e30c748a4345159635b606b2e5b687/artifacts
+end_time: 1756405753011
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: a3e30c748a4345159635b606b2e5b687
+run_name: inquisitive-hound-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405752923
+status: 3
+tags: []
+user_id: bhart

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/358f2e14a0424fb3a14a1f53110219c3/artifacts
+deleted_time: 1756404797675
+end_time: 1756404085297
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 358f2e14a0424fb3a14a1f53110219c3
+run_name: exultant-cow-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404085232
+status: 3
+tags: []
+user_id: bhart

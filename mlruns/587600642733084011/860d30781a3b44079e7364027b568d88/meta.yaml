@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/860d30781a3b44079e7364027b568d88/artifacts
+end_time: 1756401793148
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 860d30781a3b44079e7364027b568d88
+run_name: smiling-flea-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756401793073
+status: 3
+tags: []
+user_id: bhart

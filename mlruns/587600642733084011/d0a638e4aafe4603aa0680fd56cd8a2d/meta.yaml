@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/d0a638e4aafe4603aa0680fd56cd8a2d/artifacts
+deleted_time: 1756403770110
+end_time: 1756402280639
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: d0a638e4aafe4603aa0680fd56cd8a2d
+run_name: bouncy-snipe-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756402280578
+status: 3
+tags: []
+user_id: bhart

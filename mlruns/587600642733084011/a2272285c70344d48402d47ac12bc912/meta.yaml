@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/a2272285c70344d48402d47ac12bc912/artifacts
+deleted_time: 1756404072342
+end_time: 1756403795344
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: a2272285c70344d48402d47ac12bc912
+run_name: unique-colt-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756403795284
+status: 3
+tags: []
+user_id: bhart

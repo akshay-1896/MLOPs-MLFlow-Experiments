@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/cbda7945b6c64df58649842cdc91a86a/artifacts
+end_time: 1756401793485
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: cbda7945b6c64df58649842cdc91a86a
+run_name: thoughtful-frog-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756401793430
+status: 3
+tags: []
+user_id: bhart

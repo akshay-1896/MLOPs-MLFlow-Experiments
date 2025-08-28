@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/6ee918e6e1a644f5b2c1c6d039b72ca3/artifacts
+end_time: 1756405431543
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 6ee918e6e1a644f5b2c1c6d039b72ca3
+run_name: overjoyed-robin-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405431439
+status: 3
+tags: []
+user_id: bhart

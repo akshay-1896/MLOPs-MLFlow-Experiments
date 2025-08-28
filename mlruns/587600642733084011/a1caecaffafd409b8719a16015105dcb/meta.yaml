@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/a1caecaffafd409b8719a16015105dcb/artifacts
+end_time: 1756405437412
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: a1caecaffafd409b8719a16015105dcb
+run_name: salty-mole-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405426384
+status: 3
+tags: []
+user_id: bhart

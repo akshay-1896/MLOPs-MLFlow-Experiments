@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/e4292899e94e4b3b9327a8725dd41576/artifacts
+deleted_time: 1756404797657
+end_time: 1756404085676
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: e4292899e94e4b3b9327a8725dd41576
+run_name: handsome-vole-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404085615
+status: 3
+tags: []
+user_id: bhart

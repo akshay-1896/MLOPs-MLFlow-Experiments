@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/24d5a2445b7b45d189c36f0f68a956ab/artifacts
+end_time: 1756405752890
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 24d5a2445b7b45d189c36f0f68a956ab
+run_name: trusting-kit-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405752782
+status: 3
+tags: []
+user_id: bhart

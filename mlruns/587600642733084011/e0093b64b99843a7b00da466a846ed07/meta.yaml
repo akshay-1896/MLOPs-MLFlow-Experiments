@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/e0093b64b99843a7b00da466a846ed07/artifacts
+deleted_time: 1756405254059
+end_time: 1756405127416
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: e0093b64b99843a7b00da466a846ed07
+run_name: chill-doe-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405127330
+status: 3
+tags: []
+user_id: bhart

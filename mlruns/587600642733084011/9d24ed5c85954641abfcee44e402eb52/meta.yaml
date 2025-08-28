@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/9d24ed5c85954641abfcee44e402eb52/artifacts
+deleted_time: 1756404797669
+end_time: 1756404085485
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 9d24ed5c85954641abfcee44e402eb52
+run_name: kindly-carp-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404085426
+status: 3
+tags: []
+user_id: bhart

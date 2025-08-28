@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/719c4948b9b04c64a9dc5a1e3c771c21/artifacts
+end_time: 1756401793311
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 719c4948b9b04c64a9dc5a1e3c771c21
+run_name: gaudy-lamb-621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756401793264
+status: 3
+tags: []
+user_id: bhart

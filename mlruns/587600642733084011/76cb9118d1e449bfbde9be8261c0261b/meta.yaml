@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/76cb9118d1e449bfbde9be8261c0261b/artifacts
+deleted_time: 1756403770103
+end_time: 1756402280766
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 76cb9118d1e449bfbde9be8261c0261b
+run_name: agreeable-boar-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756402280708
+status: 3
+tags: []
+user_id: bhart

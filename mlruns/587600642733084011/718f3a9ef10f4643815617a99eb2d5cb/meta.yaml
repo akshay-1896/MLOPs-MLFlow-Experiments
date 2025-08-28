@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/718f3a9ef10f4643815617a99eb2d5cb/artifacts
+end_time: 1756405430563
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 718f3a9ef10f4643815617a99eb2d5cb
+run_name: gaudy-hawk-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405430474
+status: 3
+tags: []
+user_id: bhart

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/4c6879214df847588d4ee6a86275a510/artifacts
+end_time: 1756401793670
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 4c6879214df847588d4ee6a86275a510
+run_name: tasteful-hog-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756401793605
+status: 3
+tags: []
+user_id: bhart

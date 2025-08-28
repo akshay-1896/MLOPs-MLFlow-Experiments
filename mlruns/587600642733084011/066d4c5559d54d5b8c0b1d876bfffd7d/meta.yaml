@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/066d4c5559d54d5b8c0b1d876bfffd7d/artifacts
+end_time: 1756405752249
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 066d4c5559d54d5b8c0b1d876bfffd7d
+run_name: auspicious-perch-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405752148
+status: 3
+tags: []
+user_id: bhart

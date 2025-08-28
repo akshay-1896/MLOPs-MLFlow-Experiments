@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/b619e3e4846443c0ae8c4a701b2b5396/artifacts
+end_time: 1756401793820
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: b619e3e4846443c0ae8c4a701b2b5396
+run_name: selective-skunk-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756401793757
+status: 3
+tags: []
+user_id: bhart

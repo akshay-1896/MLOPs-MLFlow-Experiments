@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/ae2dfc5bd5b240e9870cc119df70220b/artifacts
+end_time: 1756401793544
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: ae2dfc5bd5b240e9870cc119df70220b
+run_name: placid-fish-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756401793490
+status: 3
+tags: []
+user_id: bhart

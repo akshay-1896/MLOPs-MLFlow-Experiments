@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/0a60c8a8acb04bceb1d14ffb2fef4f81/artifacts
+deleted_time: 1756404797664
+end_time: 1756404085612
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 0a60c8a8acb04bceb1d14ffb2fef4f81
+run_name: fortunate-hawk-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404085551
+status: 3
+tags: []
+user_id: bhart

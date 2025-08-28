@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/6e46eb6110da4dd998a20b23b8b4ce8c/artifacts
+deleted_time: 1756403770099
+end_time: 1756402280833
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 6e46eb6110da4dd998a20b23b8b4ce8c
+run_name: rebellious-fly-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756402280770
+status: 3
+tags: []
+user_id: bhart

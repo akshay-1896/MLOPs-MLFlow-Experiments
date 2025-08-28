@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/68c53988e7994a41abfdf78036fdc88f/artifacts
+deleted_time: 1756403770110
+end_time: 1756402280441
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 68c53988e7994a41abfdf78036fdc88f
+run_name: abrasive-vole-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756402280354
+status: 3
+tags: []
+user_id: bhart

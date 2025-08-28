@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/8ebcaaa4276d4bdea4052efaebd7b7a6/artifacts
+deleted_time: 1756405254061
+end_time: 1756404778152
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 8ebcaaa4276d4bdea4052efaebd7b7a6
+run_name: angry-hen-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404778085
+status: 3
+tags: []
+user_id: bhart

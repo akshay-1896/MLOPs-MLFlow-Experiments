@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/203675ff9f6c4fbfa6d8d96ec290f084/artifacts
+end_time: 1756405753421
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 203675ff9f6c4fbfa6d8d96ec290f084
+run_name: blushing-shoat-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405753324
+status: 3
+tags: []
+user_id: bhart

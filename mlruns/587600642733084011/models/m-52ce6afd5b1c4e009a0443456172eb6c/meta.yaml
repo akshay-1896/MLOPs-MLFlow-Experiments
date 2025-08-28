@@ -1,0 +1,10 @@
+artifact_location: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/models/m-52ce6afd5b1c4e009a0443456172eb6c/artifacts
+creation_timestamp: 1756404778254
+experiment_id: '587600642733084011'
+last_updated_timestamp: 1756404782151
+model_id: m-52ce6afd5b1c4e009a0443456172eb6c
+model_type: null
+name: rf-model
+source_run_id: 1f58c8d70fcc4ff9aab04e2204f43f0e
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/a0b50defc29c405c93c00cab9a6d1130/artifacts
+end_time: 1756405430713
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: a0b50defc29c405c93c00cab9a6d1130
+run_name: exultant-seal-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405430598
+status: 3
+tags: []
+user_id: bhart

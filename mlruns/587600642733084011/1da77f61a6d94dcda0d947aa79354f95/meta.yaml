@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/1da77f61a6d94dcda0d947aa79354f95/artifacts
+deleted_time: 1756405254071
+end_time: 1756404777409
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 1da77f61a6d94dcda0d947aa79354f95
+run_name: thoughtful-kite-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404777339
+status: 3
+tags: []
+user_id: bhart

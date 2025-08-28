@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/0631211c9b274da0adcd5a0a03ebfb24/artifacts
+end_time: 1756401793374
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 0631211c9b274da0adcd5a0a03ebfb24
+run_name: blushing-fowl-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756401793314
+status: 3
+tags: []
+user_id: bhart

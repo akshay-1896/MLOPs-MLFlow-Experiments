@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/6ee9f62c13124ab0b3a738f7e3f8f3c9/artifacts
+deleted_time: 1756405254047
+end_time: 1756405128480
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 6ee9f62c13124ab0b3a738f7e3f8f3c9
+run_name: beautiful-shrike-143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405128379
+status: 3
+tags: []
+user_id: bhart

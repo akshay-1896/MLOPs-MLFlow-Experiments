@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/30e118005b4a420889265dbe35a68e28/artifacts
+end_time: 1756401793260
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 30e118005b4a420889265dbe35a68e28
+run_name: orderly-newt-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756401793207
+status: 3
+tags: []
+user_id: bhart

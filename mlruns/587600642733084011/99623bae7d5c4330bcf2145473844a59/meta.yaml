@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/99623bae7d5c4330bcf2145473844a59/artifacts
+deleted_time: 1756405254069
+end_time: 1756404777574
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 99623bae7d5c4330bcf2145473844a59
+run_name: hilarious-bug-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404777496
+status: 3
+tags: []
+user_id: bhart

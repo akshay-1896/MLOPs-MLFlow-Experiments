@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/8570116aa3764d9cb76a5fcbe2237715/artifacts
+end_time: 1756405752485
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 8570116aa3764d9cb76a5fcbe2237715
+run_name: stylish-moth-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405752400
+status: 3
+tags: []
+user_id: bhart

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/4bc87a5d67ef4183b49e48302bff032e/artifacts
+deleted_time: 1756404797667
+end_time: 1756404085548
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 4bc87a5d67ef4183b49e48302bff032e
+run_name: efficient-panda-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404085488
+status: 3
+tags: []
+user_id: bhart

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/50fafd646eb34b258c75a0ba59112dcf/artifacts
+end_time: 1756401793754
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 50fafd646eb34b258c75a0ba59112dcf
+run_name: hilarious-elk-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756401793673
+status: 3
+tags: []
+user_id: bhart

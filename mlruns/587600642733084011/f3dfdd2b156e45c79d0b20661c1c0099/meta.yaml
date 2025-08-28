@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/f3dfdd2b156e45c79d0b20661c1c0099/artifacts
+deleted_time: 1756405254062
+end_time: 1756404777852
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: f3dfdd2b156e45c79d0b20661c1c0099
+run_name: bustling-doe-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404777784
+status: 3
+tags: []
+user_id: bhart

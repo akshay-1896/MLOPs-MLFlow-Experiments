@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/6923a5af96b9414dbd01dfc289c74378/artifacts
+deleted_time: 1756405254064
+end_time: 1756404777712
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 6923a5af96b9414dbd01dfc289c74378
+run_name: suave-mule-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404777648
+status: 3
+tags: []
+user_id: bhart

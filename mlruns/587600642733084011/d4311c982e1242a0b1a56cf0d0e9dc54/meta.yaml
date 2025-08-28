@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/d4311c982e1242a0b1a56cf0d0e9dc54/artifacts
+deleted_time: 1756404797670
+end_time: 1756404085423
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: d4311c982e1242a0b1a56cf0d0e9dc54
+run_name: carefree-mole-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404085360
+status: 3
+tags: []
+user_id: bhart

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/ec29d93ff5854462a5bc473be8b688ef/artifacts
+deleted_time: 1756405254077
+end_time: 1756404777335
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: ec29d93ff5854462a5bc473be8b688ef
+run_name: bright-bird-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404777238
+status: 3
+tags: []
+user_id: bhart

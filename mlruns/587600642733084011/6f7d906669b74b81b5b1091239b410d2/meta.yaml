@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/6f7d906669b74b81b5b1091239b410d2/artifacts
+deleted_time: 1756405254058
+end_time: 1756404778017
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 6f7d906669b74b81b5b1091239b410d2
+run_name: trusting-trout-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404777945
+status: 3
+tags: []
+user_id: bhart

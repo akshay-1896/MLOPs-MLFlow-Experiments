@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/dbb9ac9ac5ef43b0b4ac2762009560fc/artifacts
+deleted_time: 1756405254030
+end_time: 1756405133802
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: dbb9ac9ac5ef43b0b4ac2762009560fc
+run_name: efficient-goose-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405123304
+status: 3
+tags: []
+user_id: bhart

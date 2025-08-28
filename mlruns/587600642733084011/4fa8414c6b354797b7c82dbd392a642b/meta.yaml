@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/4fa8414c6b354797b7c82dbd392a642b/artifacts
+end_time: 1756405753287
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 4fa8414c6b354797b7c82dbd392a642b
+run_name: honorable-snail-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405753184
+status: 3
+tags: []
+user_id: bhart

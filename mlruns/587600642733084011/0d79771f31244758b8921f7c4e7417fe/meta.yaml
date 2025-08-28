@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/0d79771f31244758b8921f7c4e7417fe/artifacts
+deleted_time: 1756405254050
+end_time: 1756405127545
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 0d79771f31244758b8921f7c4e7417fe
+run_name: vaunted-deer-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405127448
+status: 3
+tags: []
+user_id: bhart

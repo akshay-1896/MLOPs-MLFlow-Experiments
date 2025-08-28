@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/8d0921f72e7047d894c590794bd269b0/artifacts
+deleted_time: 1756404797660
+end_time: 1756404089788
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 8d0921f72e7047d894c590794bd269b0
+run_name: unruly-snail-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404081040
+status: 3
+tags: []
+user_id: bhart

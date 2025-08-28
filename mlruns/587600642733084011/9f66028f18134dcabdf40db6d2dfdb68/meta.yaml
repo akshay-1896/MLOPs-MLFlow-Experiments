@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/9f66028f18134dcabdf40db6d2dfdb68/artifacts
+deleted_time: 1756404797676
+end_time: 1756404085358
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 9f66028f18134dcabdf40db6d2dfdb68
+run_name: upset-snake-554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404085300
+status: 3
+tags: []
+user_id: bhart

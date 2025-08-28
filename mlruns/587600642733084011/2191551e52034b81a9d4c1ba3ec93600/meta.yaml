@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/2191551e52034b81a9d4c1ba3ec93600/artifacts
+deleted_time: 1756405254043
+end_time: 1756405127954
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 2191551e52034b81a9d4c1ba3ec93600
+run_name: omniscient-perch-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405127852
+status: 3
+tags: []
+user_id: bhart

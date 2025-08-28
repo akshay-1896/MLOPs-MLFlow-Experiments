@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/0fde327e35e746ea898a87d3c043b06a/artifacts
+end_time: 1756405431717
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 0fde327e35e746ea898a87d3c043b06a
+run_name: bouncy-sheep-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405431582
+status: 3
+tags: []
+user_id: bhart

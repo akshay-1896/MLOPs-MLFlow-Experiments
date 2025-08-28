@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/8eb6573529474e03829b7e05b1886df7/artifacts
+deleted_time: 1756405254043
+end_time: 1756405128080
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 8eb6573529474e03829b7e05b1886df7
+run_name: languid-bass-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405127989
+status: 3
+tags: []
+user_id: bhart

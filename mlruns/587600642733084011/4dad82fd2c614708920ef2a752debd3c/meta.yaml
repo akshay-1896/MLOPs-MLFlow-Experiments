@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/4dad82fd2c614708920ef2a752debd3c/artifacts
+deleted_time: 1756403770110
+end_time: 1756402280504
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 4dad82fd2c614708920ef2a752debd3c
+run_name: nimble-cat-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756402280445
+status: 3
+tags: []
+user_id: bhart

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/f1d4a85e5d454943b97cb66b20a4b818/artifacts
+end_time: 1756405753556
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: f1d4a85e5d454943b97cb66b20a4b818
+run_name: clean-mare-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405753456
+status: 3
+tags: []
+user_id: bhart

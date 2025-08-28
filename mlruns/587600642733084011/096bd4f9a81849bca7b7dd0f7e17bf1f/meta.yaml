@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/096bd4f9a81849bca7b7dd0f7e17bf1f/artifacts
+end_time: 1756405752750
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: active
+run_id: 096bd4f9a81849bca7b7dd0f7e17bf1f
+run_name: legendary-panda-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405752658
+status: 3
+tags: []
+user_id: bhart

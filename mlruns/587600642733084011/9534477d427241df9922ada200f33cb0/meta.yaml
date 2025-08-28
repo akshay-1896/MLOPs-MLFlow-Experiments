@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/9534477d427241df9922ada200f33cb0/artifacts
+deleted_time: 1756405254042
+end_time: 1756405128198
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 9534477d427241df9922ada200f33cb0
+run_name: victorious-loon-206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405128111
+status: 3
+tags: []
+user_id: bhart

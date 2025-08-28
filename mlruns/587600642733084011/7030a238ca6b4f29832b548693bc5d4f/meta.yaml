@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/7030a238ca6b4f29832b548693bc5d4f/artifacts
+deleted_time: 1756405254046
+end_time: 1756405128336
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 7030a238ca6b4f29832b548693bc5d4f
+run_name: entertaining-lamb-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756405128232
+status: 3
+tags: []
+user_id: bhart

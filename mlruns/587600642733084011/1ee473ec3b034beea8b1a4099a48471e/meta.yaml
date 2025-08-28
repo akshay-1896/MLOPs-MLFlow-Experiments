@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/GitHub%20Repos/MLOPs/MLOPs-MLFlow-Experiments/mlruns/587600642733084011/1ee473ec3b034beea8b1a4099a48471e/artifacts
+deleted_time: 1756405254073
+end_time: 1756404777644
+entry_point_name: ''
+experiment_id: '587600642733084011'
+lifecycle_stage: deleted
+run_id: 1ee473ec3b034beea8b1a4099a48471e
+run_name: rare-crow-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756404777577
+status: 3
+tags: []
+user_id: bhart
